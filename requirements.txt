@@ -1,0 +1,5 @@
+pandas
+ipykernel
+openpyxl
+selenium
+python-dotenv
