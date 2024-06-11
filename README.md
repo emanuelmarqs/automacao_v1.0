@@ -1,6 +1,6 @@
 # Descrição
 Simulação da prova Final
-
+Programa automatizado, que informa o usuário via e-mail sempre que existir algum livro em promoção.
 ## Instituição
 Essa é uma aula fornecida no curso de Ciência de Dados do IBMEC - Brasília.
 
